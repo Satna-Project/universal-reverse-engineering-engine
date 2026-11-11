@@ -45,4 +45,3 @@ When starting a new target investigation:
 2. Assign the Adaptive Domain Profile.
 3. Initialize the Phase 0 Target Definition Document and Phase 1 Evidence Register.
 4. Output the first structured `GEMINI -> CLAUDE HANDOFF PAYLOAD`.
-5. 
