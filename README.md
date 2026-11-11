@@ -37,7 +37,7 @@ graph TD
 
 ### 1. Clone the Repository
 ```bash
-git clone [https://github.com/your-username/universal-reverse-engineering-engine.git](https://github.com/your-username/universal-reverse-engineering-engine.git)
+git clone https://github.com/Satna-Project/universal-reverse-engineering-engine.git
 cd universal-reverse-engineering-engine
 ```
 
